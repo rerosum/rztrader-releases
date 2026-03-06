@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>rztrader</title>
+    <item>
+      <title>Version 0.6.0</title>
+      <sparkle:version>0.6.0</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.6.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader-releases/releases/download/v0.6.0/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader-releases/releases/download/v0.6.0/rztrader-macos.zip" sparkle:os="macos"/>
+    </item>
+    <item>
+      <title>Version 0.5.0</title>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.5.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.5.0/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.5.0/rztrader-macos.zip" sparkle:os="macos"/>
+    </item>
+    <item>
+      <title>Version 0.4.0</title>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.4.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.4.0/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.4.0/rztrader-macos.zip" sparkle:os="macos"/>
+    </item>
+    <item>
+      <title>Version 0.3.0</title>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.3.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.3.0/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.3.0/rztrader-macos.zip" sparkle:os="macos"/>
+    </item>
+    <item>
+      <title>Version 0.2.0</title>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.2.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.2.0/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.2.0/rztrader-macos.zip" sparkle:os="macos"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.2.0/rztrader-ios.zip" sparkle:os="ios"/>
+    </item>
+    <item>
+      <title>Version 0.1.0</title>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.1.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.1.0/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.1.0/rztrader-macos.zip" sparkle:os="macos"/>
+      <enclosure url="https://github.com/rerosum/rztrader/releases/download/v0.1.0/rztrader-ios.zip" sparkle:os="ios"/>
+    </item>
+  </channel>
+</rss>
