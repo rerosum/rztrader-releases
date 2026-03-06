@@ -3,6 +3,13 @@
   <channel>
     <title>rztrader</title>
     <item>
+      <title>Version 0.6.2</title>
+      <sparkle:version>0.6.2</sparkle:version>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.6.2</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader-releases/releases/download/v0.6.2/rztrader-windows.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader-releases/releases/download/v0.6.2/rztrader-macos-frontend.tar.gz" sparkle:os="macos"/>
+    </item>
+    <item>
       <title>Version 0.6.0</title>
       <sparkle:version>0.6.0</sparkle:version>
       <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.6.0</sparkle:releaseNotesLink>
