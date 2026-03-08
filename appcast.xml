@@ -3,6 +3,14 @@
   <channel>
     <title>rztrader</title>
     <item>
+      <title>Version 0.7.1</title>
+      <sparkle:version>0.7.1</sparkle:version>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.7.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rerosum/rztrader-releases/releases/download/v0.7.1/rztrader-v0.7.1-windows-x64.zip" sparkle:os="windows"/>
+      <enclosure url="https://github.com/rerosum/rztrader-releases/releases/download/v0.7.1/rztrader-v0.7.1-macos-arm64.zip" sparkle:os="macos"/>
+    </item>
+    <item>
       <title>Version 0.7.0</title>
       <sparkle:version>0.7.0</sparkle:version>
       <sparkle:releaseNotesLink>https://github.com/rerosum/rztrader/releases/tag/v0.7.0</sparkle:releaseNotesLink>
